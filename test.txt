@@ -1,3 +1,6 @@
 This is a test file
 Adding second line for testing into master branch
+
+Adding for testing purpose
+
 Adding 3rd line
