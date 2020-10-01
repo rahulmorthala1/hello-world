@@ -1,2 +1,3 @@
 This is a test file
-Addin second line for testing into master branch
+Adding second line for testing into master branch
+Adding 3rd line
